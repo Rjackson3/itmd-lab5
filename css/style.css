@@ -1,0 +1,83 @@
+<<<<<<< HEAD:style.css
+body {
+  background-image: url("milky way galaxy.jpg");
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+h1 {
+  background-color: white;
+  color: purple;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+  font-size: 40px;
+  text-decoration: overline underline;
+}
+img {
+  border-radius: 75%;
+  height: 100px;
+  width: 100px;
+}
+table, th, td  {
+  border: 2px solid black;
+  color: white;
+  border-collapse: collapse;
+  text-align: center;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+}
+th,td {
+  font-family: 'Courier New', monospace;
+  word-wrap: break-word;
+  background-color: #e6ffe6;
+}
+p {
+  background-color: white;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+=======
+body{
+    background-image:url(media/milky way galaxy.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    
+    body{
+      text-align: center;
+    }
+    h1{
+      font-style:normal;
+      font-family:fantasy;
+      color:inherit;
+      text-align: center;
+    }
+    table {
+      background-color: black;
+      border-collapse: collapse;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    
+    table, th, td{
+      border: 5px white;
+      height: 40px;
+      text-align:center;
+    }
+    
+    img {
+      height: 10%;
+      width: 10%;
+    }
+    
+    img:hover {
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+    }
+    
+    footer{
+       text-shadow: 2px 2px 4px #000000;
+    }
+>>>>>>> a7781c1c8e380923978ddb992db340da95f0b8a5:css/style.css

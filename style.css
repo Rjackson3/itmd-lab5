@@ -19,7 +19,7 @@ img {
 }
 table, th, td  {
   border: 2px white;
-  color: white;
+  color: purple;
   border-collapse: collapse;
   text-align: center;
 }
@@ -30,7 +30,7 @@ table{
 th,td {
   font-family: 'Courier New', monospace;
   word-wrap: break-word;
-  background-color: solid black ;
+  background-color: black ;
 }
 p {
   background-color: white;
